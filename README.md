@@ -39,36 +39,27 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # textCraft
-# te
-# te
-# te
+
+textCraft is a versatile text manipulation tool built with React.js. This application provides a user-friendly interface to transform text efficiently, offering various operations such as converting text to uppercase or lowercase, word counting, clearing text, removing extra spaces, and calculating the estimated reading time.
+
+**Features:**\
+Text Transformation: Easily convert text to uppercase or lowercase according to your preference.\
+Word Count: Quickly determine the number of words in the text.\
+Clear Text: Clear the input area with a single click for a fresh start.\
+Space Removal: Remove extra spaces to ensure clean and tidy text formatting.\
+Reading Time Estimate: Get an approximate estimation of the time needed to read the provided text.\
+Text Preview: View the modified text in real-time after applying the operations.\
+Copy Functionality: Conveniently copy the modified text to the clipboard.\
+
+**Usage:**
+**To experience textCraft locally:**\
+\
+Clone the Repository: `git clone https://github.com/your-username/textnest.git`\
+Navigate to the Project Directory: `cd textnest`\
+Install Dependencies: `npm install`\
+Start the Application: `npm start`\
+Access the App: Open your browser and go to http://localhost:3000
+
+Reference: https://www.youtube.com/@CodeWithHarry
