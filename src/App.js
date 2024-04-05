@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import Forms from './components/Forms';
 import About from './components/About';
 import React, { useState } from 'react';
+import React from 'react';
 // test1 - branch1
 function App() {
 
